@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SkAkramali/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1882-process-tasks-using-servers](https://github.com/SkAkramali/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/SkAkramali/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/SkAkramali/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SkAkramali/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2747-count-zero-request-servers](https://github.com/SkAkramali/leetcode/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/SkAkramali/leetcode/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
