@@ -3,51 +3,32 @@ import java.util.*;
 
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
+        if(source == destination) return true;
+        List<List<Integer>> graph = new ArrayList<>();
 
-        // Same source and destination
-        if (source == destination) return true;
-
-        // Create adjacency list
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>());
+        for(int i = 0; i < n; i++) {
+            graph.add(new ArrayList<>());
         }
 
-        // Build undirected graph
-        for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+        for(int[] edge : edges) {
+            graph.get(edge[0]).add(edge[1]);
+            graph.get(edge[1]).add(edge[0]);
         }
+        boolean[] visited = new boolean[graph.size()];
+        return dfs(graph, source, visited, destination); 
+    }
 
-        boolean[] visited = new boolean[n];
-
-        Queue<Integer> q = new LinkedList<>();
-
-        q.add(source);
+    public boolean dfs(List<List<Integer>> graph, int source, boolean[] visited, int destination) {
+        if(source == destination) return true;
         visited[source] = true;
-
-        while (!q.isEmpty()) {
-
-            int node = q.poll();
-
-            if (node == destination) {
-                return true;
-            }
-
-            for (int neighbor : adj.get(node)) {
-
-                if (!visited[neighbor]) {
-
-                    visited[neighbor] = true;
-                    q.add(neighbor);
+        for(int edge : graph.get(source)){
+            if(!visited[edge]) {
+                if(dfs(graph, edge, visited, destination)) {
+                    return true;
                 }
             }
         }
 
-        return false;
+        return false;    
     }
 }
