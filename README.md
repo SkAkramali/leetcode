@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SkAkramali/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
+| [0909-snakes-and-ladders](https://github.com/SkAkramali/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SkAkramali/leetcode/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
+| [0909-snakes-and-ladders](https://github.com/SkAkramali/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
+| [0909-snakes-and-ladders](https://github.com/SkAkramali/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
