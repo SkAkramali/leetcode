@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/SkAkramali/leetcode/tree/master/0997-find-the-town-judge) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SkAkramali/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SkAkramali/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SkAkramali/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/SkAkramali/leetcode/tree/master/3665-twisted-mirror-path-count) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SkAkramali/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SkAkramali/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SkAkramali/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
