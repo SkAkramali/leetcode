@@ -1,5 +1,9 @@
 class Solution {
     public int[][] updateMatrix(int[][] mat) {
+        int[] dr = {-1, 1, 0, 0};
+        int[] dc = {0, 0, -1, 1};
+        int m = mat.length;
+        int n = mat[0].length;
         Queue<int[]> queue = new LinkedList<>();
         int[][] ans = new int[mat.length][mat[0].length];
         for(int row = 0; row < mat.length; row++) {
@@ -14,13 +18,8 @@ class Solution {
             }
         }
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-        int m = mat.length;
-        int n = mat[0].length;
         while(!queue.isEmpty()) {
             int[] current = queue.poll();
-
             int r = current[0];
             int c = current[1];
 
@@ -38,6 +37,7 @@ class Solution {
                 queue.offer(new int[]{nr, nc});
             }
         }
+        
         return ans;
     }
 }
