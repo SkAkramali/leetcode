@@ -22,20 +22,19 @@ class Solution {
 
     public boolean dfs(int[] visited, int[] pathVisited, 
                         ArrayList<ArrayList<Integer>> graph, int node) {
-            visited[node]  = 1;
-            pathVisited[node] = 1;
-            for(int neighbor : graph.get(node)) {
-                if(visited[neighbor] == 0) {
-                    if(dfs(visited, pathVisited, graph, neighbor)) {
-                    return true;
-                    }
-                }
-                else if(pathVisited[neighbor] == 1) {
+        visited[node]  = 1;
+        pathVisited[node] = 1;
+        for(int neighbor : graph.get(node)) {
+            if(visited[neighbor] == 0) {
+                if(dfs(visited, pathVisited, graph, neighbor)) {
                     return true;
                 }
+            } else if(pathVisited[neighbor] == 1) {
+                    return true;
             }
-            pathVisited[node] = 0;
-            return false;
+        }
+        pathVisited[node] = 0;
+        return false;
     }
 
     public void makeAdjacencyList(ArrayList<ArrayList<Integer>> graph,
