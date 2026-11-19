@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SkAkramali/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/SkAkramali/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/SkAkramali/leetcode/tree/master/0994-rotting-oranges) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SkAkramali/leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SkAkramali/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -166,8 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
