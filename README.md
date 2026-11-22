@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SkAkramali/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/SkAkramali/leetcode/tree/master/1882-process-tasks-using-servers) |
 ## Counting
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/SkAkramali/leetcode/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
