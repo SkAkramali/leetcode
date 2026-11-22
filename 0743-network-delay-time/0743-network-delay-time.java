@@ -24,6 +24,7 @@ class Solution {
             int node = cur[0];
             int dist = cur[1];
 
+            if(dist != distance[node]) continue;
 
             for(int[] neighbour : graph.get(node)) {
 
