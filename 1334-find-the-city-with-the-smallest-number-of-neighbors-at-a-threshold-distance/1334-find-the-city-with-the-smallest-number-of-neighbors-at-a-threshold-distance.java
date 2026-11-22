@@ -2,14 +2,10 @@
 class Solution {
 
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
-
-        // Build adjacency list
         ArrayList<ArrayList<int[]>> graph = new ArrayList<>();
-
         for (int i = 0; i < n; i++) {
             graph.add(new ArrayList<>());
         }
-
         for (int[] edge : edges) {
             int u = edge[0];
             int v = edge[1];
@@ -19,10 +15,8 @@ class Solution {
             graph.get(v).add(new int[]{u, weight});
         }
 
-        // Store reachable city count for every source
         int[] reachableCount = new int[n];
 
-        // Run Dijkstra from every city
         for (int source = 0; source < n; source++) {
 
             int[] distance = new int[n];
@@ -35,7 +29,6 @@ class Solution {
             distance[source] = 0;
             pq.offer(new int[]{source, 0});
 
-            // Dijkstra algorithm
             while (!pq.isEmpty()) {
 
                 int[] current = pq.poll();
@@ -62,8 +55,6 @@ class Solution {
                     }
                 }
             }
-
-            // Count reachable cities
             int count = 0;
 
             for (int city = 0; city < n; city++) {
@@ -77,9 +68,6 @@ class Solution {
 
             reachableCount[source] = count;
         }
-
-        // Find city with minimum reachable count
-        // In case of tie, choose greatest city number
         int answer = -1;
         int minCount = Integer.MAX_VALUE;
 
