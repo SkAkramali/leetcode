@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SkAkramali/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/SkAkramali/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/SkAkramali/leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/SkAkramali/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/SkAkramali/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SkAkramali/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SkAkramali/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SkAkramali/leetcode/tree/master/0127-word-ladder) |
 | [0997-find-the-town-judge](https://github.com/SkAkramali/leetcode/tree/master/0997-find-the-town-judge) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2747-count-zero-request-servers](https://github.com/SkAkramali/leetcode/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SkAkramali/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SkAkramali/leetcode/tree/master/0127-word-ladder) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SkAkramali/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SkAkramali/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SkAkramali/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SkAkramali/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SkAkramali/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Math
 |  |
 | ------- |
@@ -193,10 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SkAkramali/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
