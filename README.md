@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SkAkramali/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3665-twisted-mirror-path-count](https://github.com/SkAkramali/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/SkAkramali/leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/SkAkramali/leetcode/tree/master/0909-snakes-and-ladders) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SkAkramali/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/SkAkramali/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SkAkramali/leetcode/tree/master/0997-find-the-town-judge) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/SkAkramali/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SkAkramali/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/SkAkramali/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SkAkramali/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SkAkramali/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
