@@ -1,33 +1,35 @@
+
 class Solution {
-    public List<Boolean> checkIfPrerequisite(int numCourses, int[][] prerequisites, int[][] queries) {
-        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
-        for(int index = 0; index < numCourses; index++) {
-            graph.add(new ArrayList<Integer>());
-        }
+    public List<Boolean> checkIfPrerequisite(
+        int numCourses,
+        int[][] prerequisites,
+        int[][] queries) {
+
+        boolean[][] reachable = new boolean[numCourses][numCourses];
+
         for(int[] edge : prerequisites) {
-            graph.get(edge[0]).add(edge[1]);
+            reachable[edge[0]][edge[1]] = true;
         }
 
-        List<Boolean> ans = new ArrayList<>();
-        for(int[] query : queries) {
-            ans.add(isPathExist(graph, query[0], query[1], numCourses));
-        } 
+        for(int k = 0; k < numCourses; k++) {
 
-        return ans;
-    }
+            for(int i = 0; i < numCourses; i++) {
 
-    public boolean isPathExist(ArrayList<ArrayList<Integer>> graph, int source, int dest, int size) {
-        boolean[] visited = new boolean[size];
-        Deque<Integer> queue = new ArrayDeque<Integer>();
-        queue.addLast(source);
-        while(queue.size() > 0) {
-            int cur = queue.removeFirst();
-            for(int neigh : graph.get(cur)) {
-                if(neigh == dest) return true;
-                queue.addLast(neigh); 
+                for(int j = 0; j < numCourses; j++) {
+
+                    reachable[i][j] =
+                        reachable[i][j] ||
+                        (reachable[i][k] && reachable[k][j]);
+                }
             }
         }
 
-        return false;
+        List<Boolean> ans = new ArrayList<>();
+
+        for(int[] query : queries) {
+            ans.add(reachable[query[0]][query[1]]);
+        }
+
+        return ans;
     }
 }
