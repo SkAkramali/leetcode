@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SkAkramali/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SkAkramali/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SkAkramali/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SkAkramali/leetcode/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1267-count-servers-that-communicate](https://github.com/SkAkramali/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SkAkramali/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SkAkramali/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SkAkramali/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SkAkramali/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/SkAkramali/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/SkAkramali/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SkAkramali/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SkAkramali/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
